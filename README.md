@@ -1,2 +1,3 @@
 # hello-world
-First repository from guide
+
+I like Python, and the mountains.
